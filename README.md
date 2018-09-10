@@ -1,4 +1,4 @@
-# web-scraping V 0.1
+# web-scraping Version 0.1
 
 Aim is to scrape a website to gather data on the top 100 companies in 2018 from FastTrack website.
 
